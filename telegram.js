@@ -5,7 +5,7 @@ var request = requestModule.defaults({jar: jar});
 const mysql = require("mysql");
 var scalc = require('scalc');
 
-var token = '5640623687:AAEdmbNgY0w73FM7lFBlbA0MEMjA4vd_BuY';
+var token = '5640623687:AAEdmbNgY0w73FM7lFBlbA0MEMjA4vd_BuY' ;
 var help = `
 How to use the bot:
 
